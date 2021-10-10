@@ -1,8 +1,37 @@
+body{
+	background-color: #FFFAFA;
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 20px;
 }
+b1{
+    color: blue;
+}
+b2{
+    color: orange;
+}
+b3{
+    color: green;
+}
+b4{
+    color: #FFBF24;
+}
+b5{
+    color: red;
+}
+b6{
+    color: orange;
+}
+b7{
+    color: green;
+}
+b8{
+    color: #FFBF24;
+}
+
+
